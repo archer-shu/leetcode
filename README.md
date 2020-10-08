@@ -9,7 +9,7 @@
   - [x] [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) (动态规划)
   - [x] [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)
   - [x] [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)
-  - [x] [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)
+  - [x] [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) (动态规划）
   - [x] [739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
 ### Hard (3/396):
   - [x] [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
