@@ -11,7 +11,8 @@
   - [x] [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)
   - [x] [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) (动态规划）
   - [x] [739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
-### Hard (3/396):
+### Hard (4/396):
   - [x] [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
   - [x] [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
   - [x] [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
+  - [x] [354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)
