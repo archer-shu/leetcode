@@ -15,4 +15,4 @@
   - [x] [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
   - [x] [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
   - [x] [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
-  - [x] [354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)
+  - [x] [354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/) (排序+动态规划）
