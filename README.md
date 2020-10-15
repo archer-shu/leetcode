@@ -6,7 +6,7 @@
   - [x] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) (动态规划)
   - [x] [98. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)（动态规划）
   - [x] [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) (单调栈）
-### Medium (8/930):
+### Medium (9/930):
   - [x] [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) （动态规划）
   - [x] [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)（动态规划）
   - [x] [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) (动态规划)
