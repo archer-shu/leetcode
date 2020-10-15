@@ -14,6 +14,7 @@
   - [x] [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)
   - [x] [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) (动态规划）
   - [x] [739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/) （单调栈）
+  - [x] [740. 删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn/)（动态规划）
   - [x] [918. 环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/)（动态规划）
 ### Hard (4/396):
   - [x] [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) （单调栈）
