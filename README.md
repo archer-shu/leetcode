@@ -8,7 +8,7 @@
   - [x] [98. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)（动态规划）
   - [x] [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) (动态规划)
   - [x] [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) (单调栈）
-### Medium (10/930):
+### Medium (11/930):
   - [x] [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) （动态规划）
   - [x] [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)（动态规划）
   - [x] [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) (动态规划)
@@ -18,6 +18,7 @@
   - [x] [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) (动态规划）
   - [x] [739.每日温度](https://leetcode-cn.com/problems/daily-temperatures/) （单调栈）
   - [x] [740. 删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn/)（动态规划）
+  - [x] [873. 最长的斐波那契子序列的长度](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/) （动态规划）
   - [x] [918. 环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/)（动态规划）
 ### Hard (4/396):
   - [x] [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) （单调栈）
