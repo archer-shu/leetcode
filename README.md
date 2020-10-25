@@ -8,11 +8,12 @@
   - [x] [98. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)（动态规划）
   - [x] [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) (动态规划)
   - [x] [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) (单调栈）
-### Medium (11/930):
+### Medium (13/930):
   - [x] [152. 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) （动态规划）
   - [x] [213. 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/)（动态规划）
   - [x] [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) (动态规划)
   - [x] [368. 最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/)(动态规划)
+  - [x] [413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/) (动态规划)
   - [x] [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) （单调栈）
   - [x] [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)
   - [x] [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) (动态规划）
