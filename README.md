@@ -21,6 +21,7 @@
   - [x] [740. 删除与获得点数](https://leetcode-cn.com/problems/delete-and-earn/)（动态规划）
   - [x] [873. 最长的斐波那契子序列的长度](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence/) （动态规划）
   - [x] [918. 环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray/)（动态规划）
+  - [x] [1027. 最长等差数列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence/) (动态规划)
 ### Hard (4/396):
   - [x] [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) （单调栈）
   - [x] [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) （单调栈）
