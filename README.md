@@ -1,6 +1,6 @@
 # ゴチ君 ![icon](https://i.loli.net/2020/10/05/APvmanVlE8iUQ1p.jpg) のLeetcode部屋
 
-### Easy (8/523): 
+### Easy (11/523): 
   - [x] [1. 两数之和](https://leetcode-cn.com/problems/two-sum/) 
   - [x] [7. 整数反转](https://leetcode-cn.com/problems/reverse-integer/)
   - [x] [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) (动态规划)
@@ -8,6 +8,9 @@
   - [x] [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) (动态规划)
   - [x] [98. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)（动态规划）
   - [x] [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) (动态规划)
+  - [x] [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)
+  - [x] [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)
+  - [x] [171. Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/)
   - [x] [496. 下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/) (单调栈）
   
 
